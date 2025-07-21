@@ -4,7 +4,7 @@ TrustLucian
 
 🎓 Master’s student at [UCAS]
 👾 7× Hackathon participant · 2× Winner
-🛠️ Specializing in Agent Development (50%) & Swift (10%)
+🛠️ Specializing in Agent Development (50%) & Swift (10%) & web3 builder (40%)
 🧩 Passionate about decoding project logic and building things that just work
 
 ⸻
