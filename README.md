@@ -3,7 +3,7 @@ TrustLucian
 “Crafting logic. Capturing potential.”
 
 🎓 Master’s student at [UCAS]
-👾 7× Hackathon participant · 2× Winner
+👾 8× Hackathon participant · 3× Winner
 🛠️ Specializing in Agent Development (50%) & Swift (10%) & web3 builder (40%)
 🧩 Passionate about decoding project logic and building things that just work
 
